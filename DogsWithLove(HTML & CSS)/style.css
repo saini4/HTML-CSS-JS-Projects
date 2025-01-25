@@ -75,7 +75,7 @@ li {
 .menu li {
   padding: 15px 10px;
   display: flex;
-  align-items: center; /* Ensure icon and text align properly */
+  align-items: center; 
 }
 
 .fa-question {
@@ -114,5 +114,5 @@ p {
 
 .sidebar-menu .menu li:hover {
   box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.5);
-  font-size: 20px; /* Adjusted hover size to keep it more consistent */
+  font-size: 20px;
 }
