@@ -5,7 +5,7 @@ let condition = document.querySelector(".condition");
 let wind = document.querySelector(".wind");
 let humidity = document.querySelector(".humidity");
 let submitBtn = document.querySelector(".search-btn");
-let apiKey = "YOUR_WEATHERAPI_KEY";
+let apiKey = "ENTER YOUR_WEATHERAPI_KEY";
 
 submitBtn.addEventListener("click", async () => {
   try {
